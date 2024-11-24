@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ---
 
 ## 🚀 About Me
-- 🎓 **Computer Science Student at Thapar University, Patiala, Punjab**  
+- 🎓 **Pre Final Year Computer Science Student at Thapar University, Patiala, Punjab**  
 - 🌱 Currently learning and building projects in **Machine Learning** and **Web Development**.  
 - 💡 I enjoy turning ideas into reality through **coding** and **problem-solving**.
 
@@ -15,11 +15,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 Here are the technologies and tools I use frequently:
 
 ### **Languages**
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-1572B6?logo=css3&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
 
 ### **Frameworks & Libraries**
@@ -30,6 +33,8 @@ Here are the technologies and tools I use frequently:
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-323330?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
