@@ -44,7 +44,7 @@ Here are the technologies and tools I use frequently:
 ---
 
 ## 🌟 Featured Projects
-- **[Mindfulness Tracker App](#)**  
+- **[Mindfulness Web App](#)**  
   *A web application that helps users log their mood and activities and provides personalized mindfulness recommendations.*
 
 - **[CINEFLIX-An interactive Movie Website](#)**  
