@@ -44,6 +44,10 @@ Here are the technologies and tools I use frequently:
 ---
 
 ## 🌟 Featured Projects
+
+- **[AI interview coach platform](#)**  
+  *A web application that helps users to practice their mock interviews for various job roles through the integration of Ai model.*
+
 - **[Mindfulness Web App](#)**  
   *A web application that helps users log their mood and activities and provides personalized mindfulness recommendations.*
 
@@ -53,8 +57,7 @@ Here are the technologies and tools I use frequently:
 - **[Music Genre Classifier](#)**  
   *A machine learning project to classify music genres using audio data.*
 
-- **[ Email Spam or Ham](#)**  
-  *A machine learning project to classify emails whether they are spam or not spam.*
+
   
 
 ---
