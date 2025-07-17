@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ---
 
 ## 🚀 About Me
-- 🎓 **Pre Final Year Computer Science Student at Thapar University, Patiala, Punjab**  
+- 🎓 ** Final Year Computer Science Student at Thapar University, Patiala, Punjab**  
 - 🌱 Currently learning and building projects in **AI/ML** and **Web Development**.  
 - 💡 I enjoy turning ideas into reality through **coding** and **problem-solving**.
 
