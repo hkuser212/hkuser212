@@ -52,11 +52,11 @@ Here are the technologies and tools I use frequently:
 - **[Mindfulness Web App](#)**  
   *A web application that helps users log their mood and activities and provides personalized mindfulness recommendations.*
 
-- **[CINEFLIX-An interactive Movie Website](#)**  
-  *An Movie Web app where users can browser,explore,search ,stream movies,tv shows,anime with ease and high quality.*
+- **[DCU SAD forcast -IOCL project](#)**  
+  *A real world predictive ml project , done in iocl summer internship , in which DCU furnace SAD(shutdown and decoking) length is predicted , cutting down manual work by 80%.*
 
-- **[Music Genre Classifier](#)**  
-  *A machine learning project to classify music genres using audio data.*
+- **[AI-Driven Density and RCR Prediction for Column Furnace Operations ](#)**  
+  *A real world ml project , also done in iocl summer internship , in which a column furnace , cgo , cko , ck densitites are predicted based on 5000+time series dataset.*
 
 
   
@@ -65,8 +65,7 @@ Here are the technologies and tools I use frequently:
 
 ## 🤝 Connect with Me
 - 📫 **Email**: [hkumar1_be22@thapar.edu](mailto:hkumar1_be22@thapar.edu)  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- 🌐 **Portfolio**: [Your Portfolio Site](https://yourportfolio.com)  
+- 💼 **LinkedIn**: [ LinkedIn ](https://www.linkedin.com/in/harsh210204/)  
 
 ---
 
